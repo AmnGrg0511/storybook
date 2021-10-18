@@ -18,7 +18,7 @@ Install the below tools/packages
 2. Switch to the project's root directory in terminal
 3. Install the dependencies by running `npm install`
 4. Once, 'npm install' is completed, run `expo start` to start the expo and react-native server
-5. If it shows a QR code on the terminal as a result of 'exp start' command, then you are good to go!
+5. If it shows a QR code on the terminal as a result of 'expo start' command, then you are good to go!
 
 you can write your env specific config variables on `.env` file and import them from `react-native-dotenv` package as mentioned [here](https://github.com/zetachang/react-native-dotenv#usage).
 
